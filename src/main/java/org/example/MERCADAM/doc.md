@@ -80,7 +80,7 @@ Estudiante "1" -- "*" Prestamo : realiza
 Libro "1" -- "*" Prestamo : es parte de
 @enduml
 
-
+````
 ## Programa principal
 ## Pruebas
 ## Entrega
